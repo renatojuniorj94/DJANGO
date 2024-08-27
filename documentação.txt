@@ -1,0 +1,10 @@
+--------------O que é PIP?-------------------
+
+pip install 
+pip uninstall
+pip freeze (lista os pacotes instalados)
+
+-------------Ambientes virtuais---------------
+
+No terminal:
+python -m venv minha_env

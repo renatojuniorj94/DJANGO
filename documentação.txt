@@ -1,3 +1,9 @@
+Documentação venv:
+https://docs.python.org/3/library/venv.html#
+
+Documentação PIP:
+https://pip.pypa.io/en/stable/installation/ 
+
 --------------O que é PIP?-------------------
 
 pip install 
@@ -7,4 +13,7 @@ pip freeze (lista os pacotes instalados)
 -------------Ambientes virtuais---------------
 
 No terminal:
-python -m venv minha_env
+python -m venv minha_env -> minha_env é o nome que escolhemos para a pasta
+Ativando venv (Ambiente virtual)
+Instalando django:
+pip install django

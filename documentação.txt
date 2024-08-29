@@ -17,3 +17,6 @@ python -m venv minha_env -> minha_env é o nome que escolhemos para a pasta
 Ativando venv (Ambiente virtual)
 Instalando django:
 pip install django
+
+-----------Conceitos de POO com Python----------------
+

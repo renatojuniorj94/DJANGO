@@ -29,3 +29,6 @@ pip install django
 Herança:
 https://www.w3schools.com/python/python_inheritance.asp
 https://docs.python.org/pt-br/3/tutorial/classes.html -> (9.5 Herança)
+
+Polimorfismo:
+https://www.w3schools.com/python/python_polymorphism.asp

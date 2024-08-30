@@ -1,3 +1,9 @@
+Comando para executar python no terminal:
+F5 > 
+
+Parar:
+Shift + F5
+
 Documentação venv:
 https://docs.python.org/3/library/venv.html#
 
@@ -20,3 +26,6 @@ pip install django
 
 -----------Conceitos de POO com Python----------------
 
+Herança:
+https://www.w3schools.com/python/python_inheritance.asp
+https://docs.python.org/pt-br/3/tutorial/classes.html -> (9.5 Herança)

@@ -19,6 +19,7 @@ class Celular:
     def calcular(self, v1, v2):
         return v1 + v2
 
+
 print(Celular.marca)
 celular = Celular()
 calculado = celular.calcular(2, 4)

@@ -4,16 +4,23 @@ F5 > python debbugger
 Parar:
 Shift + F5
 
+-------------------------------------------------------
+
 Iniciando servidor local de desenvolvimento que já vem embutido no django:
 python manage.py runserver
 
 Comandos django no terminal:
 
+Ver todos os comando django para executar no terminal:
+django-admin --help
+
 Verificar versão:
 django-admin --version
 
-Iniciar projeto Djang:
+Iniciar projeto Django:
 django-admin startproject nome-do-projeto .
+
+-------------------------------------------------------
 
 Documentação venv:
 https://docs.python.org/3/library/venv.html#

@@ -1,5 +1,5 @@
 Comando para executar python no terminal:
-F5 > 
+F5 > python debbugger
 
 Parar:
 Shift + F5

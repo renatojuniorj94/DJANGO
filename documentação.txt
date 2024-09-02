@@ -50,3 +50,10 @@ https://docs.python.org/pt-br/3/tutorial/classes.html -> (9.5 Herança)
 
 Polimorfismo:
 https://www.w3schools.com/python/python_polymorphism.asp
+
+------------------Makemigrations e migrate------------------
+Sempre que fizermos uma alteração no código para o banco de dados, rodamos
+o comando python manage.py makemigrations e depois python manage.py migration
+
+-------------------Criando super usuário (admin django)-------------------
+python manage.py createsuperuser

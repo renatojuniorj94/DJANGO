@@ -11,7 +11,7 @@ python manage.py runserver
 
 Comandos django no terminal:
 
-Ver todos os comando django para executar no terminal:
+Ver todos os comandos django para executar no terminal:
 django-admin --help
 
 Verificar versão:

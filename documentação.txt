@@ -57,3 +57,8 @@ o comando python manage.py makemigrations e depois python manage.py migration
 
 -------------------Criando super usuário (admin django)-------------------
 python manage.py createsuperuser
+
+------------------Criando tabelas no banco de dados---------------
+Após criar classe dentro de models.py rodamos o seguinte comando no terminal:
+python manage.py makemigrations
+python manage.py migrate
